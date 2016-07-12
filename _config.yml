@@ -1,0 +1,14 @@
+layout_spectrum: 0.26167738647200167
+typography_spectrum: 0.2246989901177585
+color:
+  brandStrength: 0.1546128059271723
+  lightness: 0.5367899190168828
+  saturation: 0.34712706063874066
+  rhythmicContrast: 0.7608161699026823
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Personal.com
